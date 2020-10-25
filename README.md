@@ -13,4 +13,4 @@ char    |  2   | A, B, C, ..
 boolean |  1   | true/false
 
 ### Reference Types 
-used to store complex objects. (ex: **Date**)
+For complex objects. (ex: **Date**)
