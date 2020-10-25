@@ -18,5 +18,5 @@ For complex objects. (ex: **Date**)
 ### Strings
 * ![String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html): Immutable (unmodified), when string changed a new string object is created.
   * ![Methods](https://www.w3schools.com/java/java_ref_string.asp)
-* **StringBuffer**: Mutable + Synchronized (thread safe) / start 16 char / capacity increase (2 * old_capacity + 2)
+* ![StringBuffer](https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuffer.html): Mutable + Synchronized (thread safe) / start 16 char / capacity increase (2 * old_capacity + 2)
 * **StringBuilder**: Mutable + Non-Synchronized / start 16 char / capacity increase (2 * old_capacity + 2)
