@@ -1,5 +1,5 @@
 # Java Types
-* **Primitive Types:**
+### Primitive Types
 
     Type    | Byte |   Range    
     ------- | ---- | ----------
@@ -12,4 +12,5 @@
     char    |  2   | A, B, C, ..
     boolean |  1   | true/false
 
-* **Reference Types:** used to store complex objects. (ex: **Date**)
+### Reference Types 
+used to store complex objects. (ex: **Date**)
