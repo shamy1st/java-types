@@ -16,3 +16,6 @@ boolean |  1   | true/false
 For complex objects. (ex: **Date**)
 
 ### Strings
+* **String**: Immustable (unmodified)
+* **StringBuffer**: Mutable + Synchronized (thread safe)
+* **StringBuilder**: Mutable + Non-Synchronized
