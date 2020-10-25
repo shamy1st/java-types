@@ -14,3 +14,5 @@ boolean |  1   | true/false
 
 ### Reference Types 
 For complex objects. (ex: **Date**)
+
+### Strings
