@@ -16,6 +16,6 @@ boolean |  1   | true/false
 For complex objects. (ex: **Date**)
 
 ### Strings
-* **String**: Immutable (unmodified)
-* **StringBuffer**: Mutable + Synchronized (thread safe)
+* **String**: Immutable (unmodified), when string changed a new string object is created.
+* **StringBuffer**: Mutable + Synchronized (thread safe) / start with 16 char, or you can specify capacity.
 * **StringBuilder**: Mutable + Non-Synchronized
