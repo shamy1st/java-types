@@ -22,5 +22,3 @@ boolean |  1   | true/false
 
 ### Arrays
 * [link](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-
-### Constants
