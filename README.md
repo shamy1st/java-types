@@ -13,7 +13,7 @@ char    |  2   | A, B, C, ..
 boolean |  1   | true/false
 
 ### Reference Types 
-* For complex objects. (ex: **Date**)
+* For complex objects. (example: **Date**)
 
 ### Strings
 * [String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html): Immutable (unmodified), when string changed a new string object is created.
